@@ -1,6 +1,6 @@
 AOS.init();
 
-const dataDoEvento = new Date("Dec 12, 2025 19:00:00"); // variavel tipo data apontando pra uma data do futuro!
+const dataDoEvento = new Date("Nov 13, 2025 22:00:00"); // variavel tipo data apontando pra uma data do futuro!
 const timeStampDoEvento = dataDoEvento.getTime();
 
 //funcção nova, yay
